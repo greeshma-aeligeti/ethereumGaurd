@@ -23,7 +23,7 @@ Below are the step by step instructions to pull the repository and run it in you
   
   1. Clone the repository into your local drive
   ```
-  git clone https://github.com/Eashwarsai/EthereumGuard-I.git
+  git clone https://github.com/greeshma-aeligeti/ethereumGaurd.git
   ```
   2.Move to cloned directly and Install Node modules
   ```
@@ -85,7 +85,7 @@ npm i firebase@9.2
 - [ ] Try to get ip address of the system from which transaction is done if an address is really detected as fraud and black list it .
 
 # Contact 
-  > EashwarSai  - @eashwarsaiboini@gmail.com
+  > Greeshma Aeligeti  - @greeshma425a@gmail.com
 
  All suggestions are welcomed , intrested can mail to above mail id
 
